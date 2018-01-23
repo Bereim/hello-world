@@ -1,3 +1,3 @@
 # hello-world
 Tutorial repository...
-Learning hot to use Github!
+Learning how to use Github!
